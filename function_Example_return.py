@@ -24,3 +24,4 @@ if __name__=="__main__":
         print(number,"-> Prime Number");
     else:
         print(number,"-> Not Prime");
+
