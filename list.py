@@ -17,5 +17,8 @@ print(isContains);
 for key in list :
     print(key);
 print("-----------------------------------");
-del list;
 print(type(list));
+print("Reverse a list");
+print(list[::-1]);
+print( 7 in list);
+
